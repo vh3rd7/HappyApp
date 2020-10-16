@@ -1,6 +1,6 @@
-<header align="center">
-   <img src="./img/logo.png" alt="Happy" width="280"/>
-</header>
+<h1 align="center">
+   <img src="./img/logo.png" alt="Happy" width="380"/>
+</h1>
 
 ## Happy App 
 
