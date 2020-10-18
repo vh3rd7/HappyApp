@@ -1,13 +1,11 @@
-import OrphanagesController from '../controllers/OrphanagesController';
 import Image from '../models/Image';
 
 
 export default {
   render(image: Image) {
     return {
-      name: image.id,
-      url: `http://localhost:3333/uploads/${image.path}`,
-      
+      id: image.id,
+      url: `http://localhost:3333/uploads/${image.path}`, 
     };
   },
 
